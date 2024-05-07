@@ -6,27 +6,27 @@ The dashboard provides an interactive interface to explore various aspects of tr
 
 ## Features 📈
 ### Data Visualizations: 
-      Explore visual representations of ticket cancellation trends, customer demographics, and trip characteristics.
+Explore visual representations of ticket cancellation trends, customer demographics, and trip characteristics.
 ### Insights Section:
-      Discover insights on reasons for cancellation and actionable strategies to mitigate cancellation risks and boost sales.
+Discover insights on reasons for cancellation and actionable strategies to mitigate cancellation risks and boost sales.
 ### Actions Section: 
-      Access actionable recommendations to reduce ticket cancellations and enhance revenue generation.
+Access actionable recommendations to reduce ticket cancellations and enhance revenue generation.
 
 ## Insights 💡
 The insights section of the dashboard highlights key findings related to ticket cancellations:
 
 ## Reasons for Cancellation: 
-      Analysis reveals common reasons for ticket cancellations, such as flight schedule conflicts, pricing concerns, and last-minute changes in travel plans.
+Analysis reveals common reasons for ticket cancellations, such as flight schedule conflicts, pricing concerns, and last-minute changes in travel plans.
 ## Actions to Reduce Cancellations:
-      Recommendations include optimizing pricing strategies, providing flexible booking options, and improving communication channels with customers.
+Recommendations include optimizing pricing strategies, providing flexible booking options, and improving communication channels with customers.
 ## Actions 🚀
-  The actions section outlines actionable steps to minimize ticket cancellations and increase sales:
+The actions section outlines actionable steps to minimize ticket cancellations and increase sales:
 
 ## Optimize Pricing: 
-    Implement dynamic pricing strategies to offer competitive rates and incentivize early bookings.
+Implement dynamic pricing strategies to offer competitive rates and incentivize early bookings.
 ## Enhance Customer Service: 
-    Provide personalized assistance and support to address customer concerns and inquiries promptly.
+Provide personalized assistance and support to address customer concerns and inquiries promptly.
 ## Offer Flexible Booking Options:
-    Introduce flexible booking policies and refund options to accommodate changing travel plans.
-## To see the dashboard click on below link
+Introduce flexible booking policies and refund options to accommodate changing travel plans.
+## To see the dashboard click on the below link
 Dashboard_link:  https://dashboarddata.streamlit.app/

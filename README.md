@@ -30,3 +30,5 @@ Provide personalized assistance and support to address customer concerns and inq
 Introduce flexible booking policies and refund options to accommodate changing travel plans.
 ## To see the dashboard click on the below link
 Dashboard_link:  https://dashboarddata.streamlit.app/
+### Note:
+If upon clicking the link, the application displays a message indicating that your app is sleeping, simply click on the 'Yes, wake it up' button shown on the popup screen. This behavior is normal, as Streamlit is a free service.
